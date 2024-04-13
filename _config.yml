@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Your Title
-subtitle: This is hexo theme
-author: Your Name
+title: yumoxuan's blog
+subtitle: welcome to yumoxian's home page
+author: yumoxuan
 timezone:
 
 # Internationalization (i18n) Setting
@@ -40,7 +40,7 @@ permalink_defaults:
 
 # Site settings
 SEOTitle: either thin | or die
-email: hexo-theme-livemylife@gmail.com
+email: 2025543136@qq.com
 description: "It's an IT blog..."
 keyword: "v-vincen,v-vincen,livemylife,IT  blog,Blog"
 header-img: img/header_img/newhome_bg.jpg
@@ -53,7 +53,7 @@ favicon: img/avatar/roguerabbit.jpg
 
 # Signature Setup
 signature: true # show signature
-signature-img: img/signature/vincent-white.png
+signature-img: img/signature/yumoxuan.png
 
 
 # Wave settings
@@ -62,19 +62,19 @@ wave: true
 
 # SNS Settings
 # RSS: true
-github_username: V-Vincen
-twitter_username: V_Vincen_
-instagram_username: v_vincen_
+github_username: yumoxuan-25
+#twitter_username: V_Vincen_
+#instagram_username: v_vincen_
 # facebook_username:  yourAccount
 # linkedin_username:  yourAccount
 # zhihu_username: WVincen
-weibo_username: WVincen
+#weibo_username: WVincen
 
 
 # Sidebar Settings
 sidebar: true   # whether or not using Sidebar.
-sidebar-about-description: "Fat people have no future, either thin or die..."
-sidebar-avatar: img/avatar/fatpeople.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "咱可是贤狼赫萝"
+sidebar-avatar: img/avatar/horo.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
 - visitor   # busuanzi: https://busuanzi.ibruce.info/
 - featured-tags
@@ -96,16 +96,17 @@ featured-condition-size: 0    # A tag will be featured if the size of it is more
 
 ## Friends
 friends: [
-    {
-        title: "V_Vincen",
-        href: "https://v-vincen.life/"
-    },{
-        title: "Bean Tech",
-        href: "http://beantech.org"
-    },{
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
-    },{
+#    {
+#        title: "V_Vincen",
+#        href: "https://v-vincen.life/"
+#    },{
+#        title: "Bean Tech",
+#        href: "http://beantech.org"
+#    },{
+#        title: "Hux Blog",
+#        href: "http://huangxuan.me"
+#    },
+  {
         title: "Hexo",
         href: "https://hexo.io/"
     }
